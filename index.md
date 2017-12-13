@@ -1,37 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nchronas/contribution_matrix_post/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Paris Chrysos has made an interesting analysis of the contribution of each member for UPSat's developement, by analysing the team's git flow.
 
-### Markdown
+The collaboration matrix, a visualisation of the commits per feature and developer has revealed an interesting pattern about my role and the overall organisation of the team. Most of the developers focus in a single subsystem (EPS, COMMS, ADCS, OBC) while me and Apostolos Masiakos work on the TT&C software, that integrates all subsystem functionality. Through the use of the TT&C that connects we achieve code reusability and shortening testing time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can read the paper [Here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082301).
 
-```markdown
-Syntax highlighted code block
+![Image](src)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nchronas/contribution_matrix_post/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
